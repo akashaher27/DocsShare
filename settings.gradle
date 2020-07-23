@@ -1,2 +1,4 @@
 rootProject.name='DocsShare'
 include ':View'
+include ':viewmodel'
+include ':login'

@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DocsShare</string>
+
+    <!--Login -->
+    <string name="header_logIn">Log In</string>
+    <string name="header_logIn_with_phone">Log in with Phone</string>
+
+      <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
